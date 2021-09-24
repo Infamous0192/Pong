@@ -913,12 +913,12 @@ PrefabInstance:
     - target: {fileID: 8176645947279574426, guid: 18cff5b52a5668246bc674757675106e,
         type: 3}
       propertyPath: upButton
-      value: 112
+      value: 273
       objectReference: {fileID: 0}
     - target: {fileID: 8176645947279574426, guid: 18cff5b52a5668246bc674757675106e,
         type: 3}
       propertyPath: downButton
-      value: 108
+      value: 274
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18cff5b52a5668246bc674757675106e, type: 3}
